@@ -125,7 +125,7 @@ In this example, we are creating a reference to delimited text files (i.e. CSV) 
 16. Click **New**
 17. Set the Name to `fileName`
 18. Switch to the **Connection** tab
-19. Click inside the `Directory` text input and click **Add dynamic content**
+19. Click inside the **File Path** `Directory` text input and click **Add dynamic content**
 20. Under **Parameters**, click `folderPath`
 21. Click **OK**
 22. Click inside the `File` text input and click **Add dynamic content**
